@@ -1,5 +1,7 @@
 # Gen Z Investor Behaviour & Brokerage Market Analysis (Power BI)
 
+![Power BI Dashboard](powerbi-dashboard.png)
+
 ## Business Objective
 This project analyzes how pricing strategies, app experience, and brokerage models influence Gen Z investor preferences in India.
 
