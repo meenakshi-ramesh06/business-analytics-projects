@@ -1,4 +1,5 @@
 # Electric Vehicle Analytics Dashboard (Power BI)
+<img width="1478" height="1024" alt="Screenshot 2026-04-18 183915" src="https://github.com/user-attachments/assets/b17427e4-493c-4f40-bbae-9a89217954e6" />
 
 ## Project Overview
 
