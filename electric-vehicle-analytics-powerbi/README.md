@@ -1,4 +1,4 @@
-# Electric Vehicle Analytics Dashboard (Power BI)
+# EV Population Analytics Dashboard (Power BI)
 
 ## Project Overview
 
