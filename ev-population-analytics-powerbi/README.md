@@ -30,7 +30,6 @@ Developed an interactive Power BI dashboard to analyze Electric Vehicle (EV) ado
 ## Files Included
 
 * **EV_Analytics_Dashboard.pbix** – Power BI dashboard
-* **EV_Analytics_Report.pdf** – Project report
 
 ## Skills Demonstrated
 
